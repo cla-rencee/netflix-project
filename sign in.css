@@ -1,0 +1,33 @@
+h2{
+    font-family: "Times New Roman";
+    font-size: 25px;
+    float: none;
+    letter-spacing: 0.5px;
+    word-spacing: 2px;
+    margin: 20px;
+    color: red;
+
+
+}
+img{
+    margin: 20px;
+    width: 1060px;
+    height: 420px;
+
+
+
+}
+form{
+    font-family: "Lucida Handwriting";
+    font-size: 20px;
+    margin: 20px;
+    color: #e50914;
+
+}
+p{
+    font-family: "Modern No. 20";
+    font-size: 25px;
+    margin: 20px;
+    color: rgba(18, 43, 11, 0.82);
+}
+
